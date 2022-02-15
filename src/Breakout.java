@@ -15,6 +15,8 @@ public class Breakout extends GraphicsProgram {
     6) How can i tell that a brick has been hit
      */
 
+    // literally any change
+
     private Ball ball;
     private Paddle paddle;
 
